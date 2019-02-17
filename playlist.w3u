@@ -2,8 +2,8 @@
   "name": "LIVE TV",
   "author": "ducnt123",
   "image": "https://i.postimg.cc/SQLCBwgK/wiseplay.png",
-  "info": "TV trực tuyến miễn phí. Sử dụng app Wiseplay trên Android TV để xem được đầy đủ kênh.",
-  "url": "http://gg.gg/ducnt123w3u",
+  "info": "TV trực tuyến miễn phí. Sử dụng app trên Android TV để xem được đầy đủ kênh.",
+  "url": "http://bit.ly/ducnt123w3u",
 	"groups": [
 	
 	{
@@ -484,6 +484,13 @@
           "referrer": "http://tivis.101vn.com",
           "isHost": true
         },
+		{
+          "image": "http://tduc.tk/logo/274/anvien.jpg",
+          "name": "An Viên HD",
+          "url": "https://tvplay.vn/truyen-hinh-171.htm",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36"
+
+        },
         {
           "image": "http://tduc.tk/logo/274/vietteen.jpg",
           "name": "Vietteen",
@@ -703,6 +710,12 @@
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
           "isHost": true
         },
+		{
+          "image": "http://tduc.tk/logo/274/hits.jpg",
+          "name": "HITS",
+          "url": "http://210.210.155.35/uq2663/h/h37/index2.m3u8",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36"
+        },
         {
           "image": "http://tduc.tk/logo/274/htvc-phim.jpg",
           "name": "HTVC Phim",
@@ -780,6 +793,34 @@
           "image": "http://tduc.tk/logo/274/mcountdown.jpg",
           "name": "M Countdown",
           "url": "http://d1cdshhn0sj9xt.cloudfront.net/529/QualityLevels(2628000,as=video)/Fragments(video=i,format=hls).m3u8",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36"
+
+        },
+		{
+          "image": "http://tduc.tk/logo/274/djing.jpg",
+          "name": "DJing TV",
+          "url": "https://www.djing.com/tv/live.m3u8",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36"
+
+        },
+		{
+          "image": "http://tduc.tk/logo/274/djing.jpg",
+          "name": "DJing TV Classics",
+          "url": "https://www.djing.com/tv/classics.m3u8",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36"
+
+        },
+		{
+          "image": "http://tduc.tk/logo/274/djing.jpg",
+          "name": "DJing TV Dancefloor",
+          "url": "https://www.djing.com/tv/classics.m3u8",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36"
+
+        },
+		{
+          "image": "http://tduc.tk/logo/274/djing.jpg",
+          "name": "DJing TV Summer Vibes",
+          "url": "https://www.djing.com/tv/session_summer-vibes.m3u8",
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36"
 
         }
