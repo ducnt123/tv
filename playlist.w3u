@@ -1423,7 +1423,7 @@
 		"image": "https://i.postimg.cc/j2mtJ5VC/khac.jpg",
 		"stations": [
 		 {
-          "image": "https://static.fptplay.net/static/img/share/channels/icon_channel_f-event_15500420774.jpg?w=345&h=210&mode=scale",
+          "image": "",
           "name": "F Event",
           "url": "https://fptplay.vn/livetv/f-event",
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
@@ -1431,8 +1431,8 @@
          },
 		 {
           "image": "",
-          "name": "Fox Family (Test)",
-          "url": "http://hplus.com.vn/xem-kenh-fox-family-movies-74757.html",
+          "name": "Workpoint",
+          "url": "https://www.dailymotion.com/embed/video/x6g9qjj",
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
 		  "isHost": true
          }
