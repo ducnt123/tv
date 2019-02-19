@@ -776,11 +776,12 @@
           "url": "http://tduc.tk/live/mtvlivehd.m3u8"
         },
 	 {
-          "image": "http://tduc.tk/logo/274/sbsmtv.jpg",
-          "name": "SBS MTV (HD)",
-          "url": "http://aqstream.com/sbsmtv/SBS-MTV-Mobile",
+          "image": "http://tduc.tk/logo/274/vh1.jpg",
+          "name": "VH1",
+          "url": "http://tv.vnoo.net/livetv/vh1/vh1.html",
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
-          "isHost": true
+          "isHost": true,
+	  "referrer": "http://tv.vnoo.net/"
         },
 		{
           "image": "http://tduc.tk/logo/274/channelv.jpg",
