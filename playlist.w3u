@@ -869,7 +869,7 @@
         {
           "image": "http://tduc.tk/logo/274/disney.jpg",
           "name": "Disney Channel",
-          "url": "http://sv.tvmienphi.net/ok/world/disney11.php",
+          "url": "http://m.tivionlinehd.net/disney.php",
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
           "isHost": true
         },
@@ -917,7 +917,7 @@
         {
           "image": "http://tduc.tk/logo/274/discovery.jpg",
           "name": "Discovery Channel",
-          "url": "http://sv.tvmienphi.net/ok/world/discoveryshow.php",
+          "url": "http://m.tivi12h.net/dicovery.php",
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
           "isHost": true
         },
