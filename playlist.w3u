@@ -1439,8 +1439,8 @@
          },
 		 {
           "image": "",
-          "name": "Fox Movies - ok.ru",
-          "url": "https://ok.ru/live/1316067155543",
+          "name": "HBO-ok",
+          "url": "https://ok.ru/videoembed/1119451356759",
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
 		  "isHost": true
          },
