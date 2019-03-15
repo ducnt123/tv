@@ -1439,14 +1439,15 @@
          },
 		 {
           "image": "",
-          "name": "Workpoint (HD)",
-          "url": "https://stream-04.sg1.dailymotion.com/sec(MuIaQwZ7oLftuFXhsi7R8rjE6mHij5l_T5C7uZ3haDw)/dm/3/x6g9qjj/s/live-4.m3u8",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36"
+          "name": "Fox Movies - ok.ru",
+          "url": "https://ok.ru/live/1316067155543",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
+		  "isHost": true
          },
 		 {
           "image": "",
-          "name": "PPTV HD36",
-          "url": "https://www.adintrend.com/hd/live/i.php?ch=25",
+          "name": "3",
+          "url": "https://www.adintrend.com/hd/ch3",
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
 		  "isHost": true
          }
