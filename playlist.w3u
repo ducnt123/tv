@@ -634,15 +634,15 @@
 
         },
 		{
-          "image": "http://tduc.tk/logo/274/mediacorp-5.jpg",
-          "name": "Channel 5",
-          "url": "https://ftach5.akamaized.net/out/v1/0b05c17bddbd459f874d7cd3b2df9464/index_5.m3u8",
+          "image": "http://tduc.tk/logo/274/nhk.jpg",
+          "name": "NHK World Premium",
+          "url": "http://203.162.235.41:16901",
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36"
 
         },
 		{
-          "image": "http://tduc.tk/logo/274/mediacorp-okto.jpg",
-          "name": "Okto",
+          "image": "http://tduc.tk/logo/274/.jpg",
+          "name": "n/a",
           "url": "https://ftaokto.akamaized.net/out/v1/dcbd96fdb4f24038a854bcd95ba36593/index_5.m3u8",
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36"
 
@@ -665,13 +665,6 @@
           "image": "http://tduc.tk/logo/274/fm.jpg",
           "name": "FOX Movies (HD)",
           "url": "http://cdn3.vtcplay.vn:1935/VTC/smil:FoxMoviesHD.smil/playlist.m3u8",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36"
-
-        },
-        {
-          "image": "http://tduc.tk/logo/274/sonychannel.jpg",
-          "name": "Sony Channel (HD)",
-          "url": "http://yipcontent-lh.akamaihd.net/i/sonymoviechannel_1@569927/index_1080_av-p.m3u8?sd=10&rebase=on",
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36"
 
         },
