@@ -2,7 +2,7 @@
   "name": "LIVE TV",
   "author": "ducnt123",
   "image": "https://i.postimg.cc/SQLCBwgK/wiseplay.png",
-  "info": "TV trực tuyến miễn phí. Sử dụng app trên Android TV để xem được đầy đủ kênh.",
+  "info": "Live TV by ducnt123",
   "url": "http://gg.gg/ducnt123w3u",
 	"groups": [
 	
@@ -84,13 +84,6 @@
            "image": "https://i.postimg.cc/28MfFbsk/vtv5tn.jpg",
           "name": "VTV5 TÂY NGUYÊN",
           "url": "https://vtvgo.vn/xem-truc-tuyen-kenh-vtv1-1.html",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
-          "isHost": true
-        },
-		{
-           "image": "https://i.postimg.cc/PqFchBdt/dtdqd.jpg",
-          "name": "Đen Thôi Đỏ Quên Đi",
-          "url": "https://vtvgo.vn/xem-truc-tuyen-kenh-%C4%90en-th%C3%B4i-%C4%91%E1%BB%8F-qu%C3%AAn-%C4%91i-199.html",
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
           "isHost": true
         },
@@ -491,69 +484,13 @@
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36"
 
         },
-        {
-          "image": "http://tduc.tk/logo/274/vietteen.jpg",
-          "name": "Vietteen",
-          "url": "http://live.cdn.mobifonetv.vn/motv/vietteen_hls.smil/playlist.m3u8",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36"
-
-        },
-        {
-          "image": "http://tduc.tk/logo/274/antg.jpg",
-          "name": "An Ninh Thế Giới",
-          "url": "http://live.cdn.mobifonetv.vn/motv/antg_hls.smil/playlist.m3u8",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36"
-
-        },
-        {
-          "image": "http://tduc.tk/logo/274/vtc2.jpg",
-          "name": "VTC2",
-          "url": "https://cdn.vtc.gov.vn/live/eds/VTC2_2/hlsv5/VTC2_2-audio_20000=212400-video=1275600.m3u8",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36"
-
-        },
-        {
-          "image": "http://tduc.tk/logo/274/vtc4-yeah1family.jpg",
-          "name": "VTC4 HD - Yeah1 Family",
-          "url": "https://cdn.vtc.gov.vn/live/eds/VTC4_4/hlsv5/VTC4_4-audio_20000=212400-video=1275600.m3u8",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36"
-
-        },
-        {
-          "image": "http://tduc.tk/logo/274/vtc5hd.jpg",
-          "name": "VTC5 HD",
-          "url": "https://cdn.vtc.gov.vn/live/eds/VTC5_5/hlsv5/VTC5_5-audio_20000=212400-video=1275600.m3u8",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36"
-
-        },
-        {
-          "image": "http://tduc.tk/logo/274/vtc7hd-todaytv.jpg",
-          "name": "VTC7 HD - Today TV",
-          "url": "https://cdn.vtc.gov.vn/live/eds/VTC7_7/hlsv5/VTC7_7-audio_20000=212400-video=1200000.m3u8",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36"
-
-        },
 		{
           "image": "http://tduc.tk/logo/274/vtc7.jpg",
           "name": "VTC7 - Today TV",
-          "url": "http://tivis.101vn.com/ok/vtc/vtc7_1.php",
+          "url": "http://sv.tvmienphi.net/ok/vtc/vtc71.php",
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
-          "referrer": "http://tivis.101vn.com",
+          "referrer": "http://tvmienphi.net",
 		  "isHost": true
-        },
-		{
-          "image": "http://tduc.tk/logo/274/vtc8.jpg",
-          "name": "VTC8",
-          "url": "https://cdn.vtc.gov.vn/live/eds/VTC8_8/hlsv5/VTC8_8-audio_20000=212400-video=1275600.m3u8",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36"
-
-        },
-				{
-          "image": "http://tduc.tk/logo/274/vtc9hd.jpg",
-          "name": "VTC9 HD",
-          "url": "https://cdn.vtc.gov.vn/live/eds/VTC9_9/hlsv5/VTC9_9-audio_20000=212400-video=1275600.m3u8",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36"
-
         },
 		 
 		{
@@ -564,13 +501,6 @@
 		  "isHost": true
         },
 		{
-          "image": "http://tduc.tk/logo/274/vtc10.jpg",
-          "name": "VTC10 - NetViet",
-          "url": "https://cdn.vtc.gov.vn/live/eds/VTC10_10/hlsv5/VTC10_10-audio_20000=212400-video=1275600.m3u8",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36"
-
-        },
-		{
           "image": "http://tduc.tk/logo/274/fashiontv.jpg",
           "name": "Fashion TV (HD)",
           "url": "https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_paris_pg_4dg_27027_paris_pg18_188_hls.smil/playlist.m3u8",
@@ -578,58 +508,9 @@
 
         },
 		{
-          "image": "http://tduc.tk/logo/274/warnertv.jpg",
-          "name": "Warner TV",
-          "url": "http://sv.tvmienphi.net/ok/world/warner1.php",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
-          "isHost": true
-        },
-		{
-          "image": "http://tduc.tk/logo/274/diva.jpg",
-          "name": "DIVA",
-          "url": "http://sv.tvmienphi.net/ok/world/divashow.php",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
-          "isHost": true
-        },
-		{
-          "image": "http://tduc.tk/logo/274/foxlife.jpg",
-          "name": "FOX Life",
-          "url": "http://m.tivi12h.net/star-world-2.php",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
-          "isHost": true
-        },
-		{
-          "image": "http://tduc.tk/logo/274/axn.jpg",
-          "name": "AXN",
-          "url": "http://sv.tvmienphi.net/playlinkz.php?id=1131717860951&idkenh=axn",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
-          "isHost": true
-        },
-		{
-          "image": "http://tduc.tk/logo/274/axn.jpg",
-          "name": "AXN (HD)",
-          "url": "http://m.tivi12h.net/axn-2.php",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
-          "isHost": true
-        },
-		{
           "image": "http://tduc.tk/logo/274/arirang.jpg",
           "name": "Arirang",
           "url": "http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b1728000_sleng.m3u8",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36"
-
-        },
-		{
-          "image": "http://tduc.tk/logo/274/kbs2.jpg",
-          "name": "KBS2",
-          "url": "http://199.21.149.42:9083/live/lmgr218-live1/GJ/qP/GJqPMui6DQrYctmZxQDeig==/live.M3U8",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36"
-
-        },
-		{
-          "image": "http://tduc.tk/logo/274/tvn.jpg",
-          "name": "tvN",
-          "url": "http://199.21.149.42:9083/live/lmgr218-live1/F8/6x/F86xTagKpWyjsAWhpFhRYQ==/live.M3U8",
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36"
 
         },
@@ -640,13 +521,6 @@
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36"
 
         },
-		{
-          "image": "http://tduc.tk/logo/274/.jpg",
-          "name": "n/a",
-          "url": "https://ftaokto.akamaized.net/out/v1/dcbd96fdb4f24038a854bcd95ba36593/index_5.m3u8",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36"
-
-        }
 		
 		]
     },
@@ -657,49 +531,35 @@
         {
           "image": "http://tduc.tk/logo/274/fm.jpg",
           "name": "FOX Movies",
-          "url": "http://m.tivionlinehd.net/movies.php",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
-          "isHost": true
-        },
-        {
-          "image": "http://tduc.tk/logo/274/fm.jpg",
-          "name": "FOX Movies (HD)",
-          "url": "http://cdn3.vtcplay.vn:1935/VTC/smil:FoxMoviesHD.smil/playlist.m3u8",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36"
-
-        },
-        {
-          "image": "http://tduc.tk/logo/274/hbohd.jpg",
-          "name": "HBO HD",
-          "url": "http://m.xemtvtructuyen.net/hbo-4.php",
+          "url": "https://ok.ru/videoembed/1096015027932",
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
           "isHost": true
         },
 		{
           "image": "http://tduc.tk/logo/274/hbo.jpg",
           "name": "HBO",
-          "url": "http://m.tivi12h.net/hbo.php",
+          "url": "https://ok.ru/videoembed/1095992549084",
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
           "isHost": true
         },
         {
           "image": "http://tduc.tk/logo/274/redbyhbo.jpg",
-          "name": "RED By HBO (HD)",
-          "url": "http://sv.tvmienphi.net/playlinkz.php?id=1120201940567&idkenh=redhbo",
+          "name": "RED By HBO",
+          "url": "https://ok.ru/videoembed/1095997136604",
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
           "isHost": true
         },
         {
           "image": "http://tduc.tk/logo/274/maxbyhbo.jpg",
           "name": "MAX By HBO",
-          "url": "http://sv.tvmienphi.net/playlinkz.php?id=1120201088599&idkenh=cinemax",
+          "url": "https://ok.ru/videoembed/1096014634716",
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
           "isHost": true
         },
         {
           "image": "http://tduc.tk/logo/274/cinemaworld.jpg",
           "name": "CinemaWorld",
-          "url": "http://m.tivionlinehd.net/cinemax-2.php",
+          "url": "https://ok.ru/videoembed/1096006901468",
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
           "isHost": true
         },
@@ -722,27 +582,14 @@
           "url": "http://live.cdn.mobifonetv.vn/motv3/phimhay_hls.smil/chunklist_b1200000.m3u8",
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36"
 
-        },
-		{
-          "image": "http://tduc.tk/logo/274/mov.jpg",
-          "name": "Hanoicab4 - MOV",
-          "url": "http://tduc.tk/live/vt/mov.m3u8",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36"
-
         }
+
 		]
     },
 	{
 		"name": "Ca nhạc",
 		"image": "https://i.postimg.cc/SsZykdD6/canhac.jpg",
 		"stations": [
-		{
-          "image": "http://tduc.tk/logo/274/vtc13hd.jpg",
-          "name": "VTC13 HD",
-          "url": "https://cdn.vtc.gov.vn/live/eds/VTC13_13/hlsv5/VTC13_13-audio_20000=212400-video=1275600.m3u8",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36"
-
-        },
 		{
           "image": "http://tduc.tk/logo/274/htvc-canhac.jpg",
           "name": "HTVC Ca Nhạc",
@@ -753,47 +600,14 @@
         {
           "image": "http://tduc.tk/logo/274/mtv.jpg",
           "name": "MTV Vietnam",
-          "url": "http://m.xemtvonline.net/mtv.php",
+          "url": "https://ok.ru/videoembed/1095994056412",
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
           "isHost": true
         },
-		{
-          "image": "http://tduc.tk/logo/274/mtvasia.jpg",
-          "name": "MTV Asia",
-          "url": "http://tduc.tk/live/mtvasia.m3u8"
-
-        },
         {
-          "image": "http://tduc.tk/logo/274/mtvlivehd.jpg",
-          "name": "MTV LIVE HD",
-          "url": "http://tduc.tk/live/mtvlivehd.m3u8"
-        },
-	 {
-          "image": "http://tduc.tk/logo/274/vh1.jpg",
-          "name": "VH1",
-          "url": "http://tv.vnoo.net/livetv/vh1/vh1.html",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
-          "isHost": true,
-	  "referrer": "http://tv.vnoo.net/"
-        },
-		{
-          "image": "http://tduc.tk/logo/274/channelv.jpg",
-          "name": "Channel V",
-          "url": "http://tduc.tk/live/chv.m3u8",
-          "referrer": "http://tv.vnoo.net/"
-		  
-        },
-        {
-          "image": "http://tduc.tk/logo/274/nrj.jpg",
-          "name": "NRJ TV",
-          "url": "http://energytv.vedge.infomaniak.com/livecast/energytv/playlist.m3u8",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36"
-
-        },
-        {
-          "image": "http://tduc.tk/logo/274/mcountdown.jpg",
-          "name": "M Countdown",
-          "url": "http://d1cdshhn0sj9xt.cloudfront.net/529/QualityLevels(2628000,as=video)/Fragments(video=i,format=hls).m3u8",
+          "image": "",
+          "name": "Trace Urban",
+          "url": "https://d2ktlibtvvj8vp.cloudfront.net/trace_urbaninter/6/prog_index.m3u8",
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36"
 
         },
@@ -831,13 +645,6 @@
 		"name": "Thiếu nhi",
 		"image": "https://i.postimg.cc/cJhWBTqp/thieunhi.jpg",
 		"stations": [
-		        {
-          "image": "http://tduc.tk/logo/274/vtc11.jpg",
-          "name": "VTC11",
-          "url": "https://cdn.vtc.gov.vn/live/eds/VTC11_11/hlsv5/VTC11_11-audio_20000=212400-video=1275600.m3u8",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36"
-
-        },
 		{
           "image": "http://tduc.tk/logo/274/htv3.jpg",
           "name": "HTV3",
@@ -851,34 +658,6 @@
           "url": "http://live.cdn.mobifonetv.vn/motv/sam_hls.smil/chunklist_b1200000.m3u8",
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36"
 
-        },
-        {
-          "image": "http://tduc.tk/logo/274/cartoonnetwork.jpg",
-          "name": "Cartoon Network",
-          "url": "http://m.tivionlinehd.net/carton-cn-2.php",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
-          "isHost": true
-        },
-        {
-          "image": "http://tduc.tk/logo/274/disney.jpg",
-          "name": "Disney Channel",
-          "url": "http://m.tivionlinehd.net/disney.php",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
-          "isHost": true
-        },
-        {
-          "image": "http://tduc.tk/logo/274/disneyjr.jpg",
-          "name": "Disney Junior",
-          "url": "http://sv.tvmienphi.net/ok/world/disneyjunior1.php",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
-          "isHost": true
-        },
-        {
-          "image": "http://tduc.tk/logo/274/davinci.jpg",
-          "name": "Da Vinci",
-          "url": "http://sv.tvmienphi.net/ok/world/davincishow.php",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
-          "isHost": true
         }
 		]
     },
